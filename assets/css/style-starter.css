@@ -16778,7 +16778,8 @@ nav#breadcrumbs a {
   margin-right: 0;
 }
 
-.w3l-footer-66 a.navbar-brand span {
+.w3l-footer-66 a.navbar-brand span,
+.w3l-footer-66 .midd-footer-28 p span {
   color: #F45D01;
 }
 
